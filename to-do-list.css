@@ -1,0 +1,15 @@
+.to-do-list {
+    color: #000000;
+    background: #f7f381;
+    width: 500px;
+    padding: 8px 24px;
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+    font-size: 30px;
+  }
+  .to-do-list > ol {
+    margin: 12px;
+  }
+  .to-do-list > p {
+    text-align: center;
+  }
